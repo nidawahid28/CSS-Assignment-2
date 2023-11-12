@@ -1,0 +1,141 @@
+body {
+    padding: 0;
+    margin: 0;
+    margin-top: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1 {
+    text-align: center;
+
+    color: rgb(211, 88, 88);
+    font-size: 50px;
+
+}
+
+#navbar {
+    height: 40px;
+    background-color: rgb(210, 119, 119);
+    color: white;
+    font-size: larger;
+    padding-top: 8px;
+}
+
+button {
+    background-color: rgb(113, 108, 108);
+    color: white;
+    border-radius: 5px;
+    margin: 5px;
+    width: 60px;
+    height: 20px;
+}
+
+input {
+    width: 200px;
+    border-radius: 5px;
+    height: 20px;
+}
+
+a {
+    margin-right: 80px;
+    text-decoration: none;
+    color: white;
+    padding: 50px;
+
+
+}
+
+#navbar a:hover {
+    color: orange;
+}
+
+.active {
+    background-color: transparent;
+}
+
+body {
+    background-image: url(image/shallow-stream-midst-alpine-trees-rolling-hills-mountain.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+#nav1 {
+    color: white;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 100%;
+    background-color:  rgba(165, 42, 42, 0.744);
+    float: left;
+    padding: 50px;
+    margin: 50px;
+    border-radius: 10px;
+
+}
+
+.one {
+    color: white;
+    background-color: green;
+    width: 100px;
+    height:30px ;
+    border-radius: 5px;
+    padding: 40x;
+    cursor: pointer;
+    
+    
+
+}
+.one:hover{
+    background-color: orange;
+}
+.form{
+    width: 250px;
+    height: 380px;
+    float: right;
+    background-color:  rgba(165, 42, 42, 0.744);
+    color: white;
+    margin-right: 80px;
+    margin-top: 20px;
+    padding: 50px;
+    border-radius: 10px;
+}
+.btn{
+    color: white;
+    background-color: green;
+    width: 240px;
+    height:40px ;
+    border-radius: 5px;
+    padding: 100x;
+    cursor: pointer;
+    font-size: 18px;
+    
+
+    
+    
+}
+.btn:hover{
+    background-color: orange;
+}
+.form.link{
+    font-size: 17px;
+    padding-top: 20ox;
+    text-align: center;
+    
+}
+
+
+.liw{
+    padding-top: 15px;
+    padding-bottom: 10px;
+    
+}
+.link a{
+    color: orange;
+    font-size: 20px;
+
+
+}
+
+
+
+
